@@ -9,7 +9,7 @@
 *.slo
 *.lo
 *.o
-*.obj
+#*.obj
 
 # Precompiled Headers
 *.gch
@@ -35,4 +35,3 @@
 *.pdb
 
 .vs/
-MyGameAPI_FNF/BinObj/

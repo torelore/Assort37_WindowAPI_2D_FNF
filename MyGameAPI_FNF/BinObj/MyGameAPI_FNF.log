@@ -1,0 +1,98 @@
+﻿  Animation.cpp
+  Collider.cpp
+  ColliderBox.cpp
+  ColliderSphere.cpp
+  Collision.cpp
+  CollisionManager.cpp
+  GameManager.cpp
+  Input.cpp
+  MapBase.cpp
+  ScrollMap.cpp
+  Tile.cpp
+  TileMap.cpp
+  Train.cpp
+  Math.cpp
+  main.cpp
+  Character.cpp
+  BoyFriend.cpp
+  Daddy.cpp
+  GirlFriend.cpp
+  GirlFriend_End.cpp
+  컴파일하고 있습니다...
+  GirlFriend_Title.cpp
+  Mom.cpp
+  MomAndDad.cpp
+  Monster.cpp
+  Pico.cpp
+  Senpai.cpp
+  Spooky.cpp
+  ComboFont.cpp
+  EffectTiming.cpp
+  GameObject.cpp
+  Note.cpp
+  Note_EndPoint.cpp
+  Button_Difficulty.cpp
+  Button_Diffi_Arrow.cpp
+  Button_FreePlay.cpp
+  Button_Option.cpp
+  Button_StoryMode.cpp
+  LogoBumpin.cpp
+  Button_PressEnter.cpp
+  PathManager.cpp
+  컴파일하고 있습니다...
+  Ref.cpp
+  AnimationSequence.cpp
+  Font.cpp
+  SongData.cpp
+  jsoncpp.cpp
+  ResourceManager.cpp
+  Sound.cpp
+  Texture.cpp
+  Camera.cpp
+  EditorDlg.cpp
+  EditorScene.cpp
+  Scene.cpp
+  SceneCollision.cpp
+  SceneManager.cpp
+  SceneResource.cpp
+  Scene_FreePlay.cpp
+  Scene_GameEndRate.cpp
+  Scene_GamePlay.cpp
+  Scene_ModeSelect.cpp
+  Scene_Start.cpp
+  컴파일하고 있습니다...
+  Scene_StoryMode.cpp
+  Timer.cpp
+  Button.cpp
+  NumberWidget.cpp
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\NumberWidget.cpp(69,75): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\NumberWidget.cpp(69,39): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\NumberWidget.cpp(88,76): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\NumberWidget.cpp(88,40): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\NumberWidget.cpp(106,75): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\NumberWidget.cpp(106,39): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\NumberWidget.cpp(123,76): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\NumberWidget.cpp(123,40): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ProgressBar.cpp
+  UI_FreePlay.cpp
+  UI_GameEndRate.cpp
+  UI_GamePlay.cpp
+  UI_ModeSelect.cpp
+  UI_StartScene.cpp
+  TextWidget.cpp
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\TextWidget.cpp(67,76): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\TextWidget.cpp(67,40): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\TextWidget.cpp(98,76): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Include\UI\TextWidget.cpp(98,40): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIImage.cpp
+  UIText.cpp
+  UIWidget.cpp
+  UIWindow.cpp
+  UI_HealthBar.cpp
+  WidgetComponent.cpp
+  코드를 생성하고 있습니다.
+  0 of 6416 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  MyGameAPI_FNF.vcxproj -> C:\Users\tore\source\API\MyGameAPI_FNF\MyGameAPI_FNF\Bin\MyGameAPI_FNF.exe
