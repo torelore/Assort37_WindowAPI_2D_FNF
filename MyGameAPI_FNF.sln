@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyGameAPI_FNF", "MyGameAPI_FNF\Include\MyGameAPI_FNF.vcxproj", "{884C4750-C1A3-4A2A-ACA7-54B2A9107624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{884C4750-C1A3-4A2A-ACA7-54B2A9107624}.Debug|x64.ActiveCfg = Debug|x64
+		{884C4750-C1A3-4A2A-ACA7-54B2A9107624}.Debug|x64.Build.0 = Debug|x64
+		{884C4750-C1A3-4A2A-ACA7-54B2A9107624}.Debug|x86.ActiveCfg = Debug|x64
+		{884C4750-C1A3-4A2A-ACA7-54B2A9107624}.Debug|x86.Build.0 = Debug|x64
+		{884C4750-C1A3-4A2A-ACA7-54B2A9107624}.Release|x64.ActiveCfg = Release|x64
+		{884C4750-C1A3-4A2A-ACA7-54B2A9107624}.Release|x64.Build.0 = Release|x64
+		{884C4750-C1A3-4A2A-ACA7-54B2A9107624}.Release|x86.ActiveCfg = Release|Win32
+		{884C4750-C1A3-4A2A-ACA7-54B2A9107624}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E82FE09-8FE4-4878-9A97-2087C13B03B2}
+	EndGlobalSection
+EndGlobal
