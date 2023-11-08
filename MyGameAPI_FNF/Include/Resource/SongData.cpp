@@ -11,15 +11,18 @@ CSongData::~CSongData()
 
 bool CSongData::LoadAllSongData()
 {
-	std::string Path = "C:\\Users\\tore\\source\\API\\MyGameAPI_FNF\\MyGameAPI_FNF\\Bin\\Data\\";
+	const TCHAR* JsonPath = CPathManager::GetInst()->FindPath(JSON_PATH)->Path;
+	const std::wstring JsonWPath(JsonPath);
+	
+	std::string Path(JsonWPath.begin(), JsonWPath.end());
 	std::string Filter = "*";
 	std::string fullPath = Path + Filter;
-
+	
 	std::vector<std::string> JsonList;
-
+	
 	_finddata_t  fd;
 	intptr_t handle = _findfirst(fullPath.c_str(), &fd);
-
+	
 	if (handle == -1)
 		return false;
 
@@ -65,7 +68,7 @@ bool CSongData::LoadJsonFullPath(const std::string& Name, const std::string& Ful
 
 	bool ok = parseFromStream(builder, json_dir, &value, &errs);
 
-	if (ok) { // ÀÐ¾î¿Â jsonÀ» Çü½Ä¿¡ µû¶ó Ã³¸®
+	if (ok) { // ì½ì–´ì˜¨ jsonì„ í˜•ì‹ì— ë”°ë¼ ì²˜ë¦¬
 		SongInfo* Info = new SongInfo;
 
 		Info->SongName = value["song"]["song"].asString();
